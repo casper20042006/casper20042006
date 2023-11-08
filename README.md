@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on developing my skills by creating custom automations for clients in NoCodeWork agency.
 - 🌱 I’m currently learning building apps in bubble and data science with python.
 - 💬 Feel free to ask me about stuff i mentioned earlier!
